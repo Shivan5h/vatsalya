@@ -1,0 +1,69 @@
+html{
+    height: fit-content;
+}
+.nav{
+    margin-top: 0%;
+    display:flex;
+    height:15%;
+    width:100%;
+    padding: 1rem;
+    gap: 5px;
+    transition: opacity 0.30s;
+    position: sticky;
+    top: 1rem;
+    border-bottom-color: aliceblue;
+}
+.bar{
+    color: aliceblue;
+    margin-left:auto;
+    font-size: large;
+    display: flex;
+    gap:10px;
+    text-decoration: none;
+    transition:0.2s;
+    cursor: pointer;
+    
+}
+.img{
+    border-radius: 5px;
+    height: 50px;
+    width: 50px;
+}
+.VATSALYA{
+    font-size: larger;
+    color: beige;
+
+}
+
+.sign{
+    background-color: red;
+    height:50px;
+    width:75px;
+    cursor: pointer;border:none;
+    border-radius: 150px;
+    color:rgb(242, 219, 219);
+}
+.ho{
+    cursor:pointer;border:none;
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    width:150px;
+    color:rgb(242, 219, 219);
+}
+.ar{
+    cursor:pointer;border:none;
+    background-color: darkgoldenrod;
+    border-radius: 10px;width:150px;
+    color:rgb(242, 219, 219);
+}
+.ws{
+    cursor:pointer;border:none;
+    background-color: darkgoldenrod;width:150px;
+    border-radius: 10px;
+    color:rgb(242, 219, 219);
+}
+.au{
+    cursor:pointer;border: none;width:150px;
+    background-color: darkgoldenrod;
+    border-radius: 10px;color:rgb(242, 219, 219);
+}

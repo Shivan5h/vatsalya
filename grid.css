@@ -1,0 +1,64 @@
+.grid1{
+    display:grid;
+    margin-bottom: 0px;;
+    background-color:rgb(246, 111, 111);
+    margin-top: 10px;
+    margin-left: 150px;
+    padding: 10px;
+    padding-top: 40px;
+    margin-bottom: 0%;
+    height:500px;
+}
+.grid2{
+    margin-top: 0px;
+    display:grid;
+    margin-left: 150px;
+    padding:10px;
+    margin-top: 0px;border-top: 0px;
+    grid-template-columns: auto auto auto;
+    height: fit-content;
+    width: fit-content;
+}
+.item1{
+    background-color: aqua;
+    height:auto;
+    width:auto;
+    padding:20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+}
+.song1{
+    font-size: xx-large;
+    font-family: monospace;
+}
+.button1{
+    background-color: black;
+    border-radius: 200px;
+    cursor: pointer;width:50%;
+    height:90px;
+    color: white;
+    margin-bottom:200px;
+}
+.modi{
+    position: right;
+    padding-left: 800px;
+    height:300px
+}
+.button2{
+    background-color: brown;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom:200px;
+}
+.item2{
+    background-color: blueviolet;
+    padding-left: 20px;
+}
+.item3{
+    background-color: red;
+}
+button3{
+    background-color: whitesmoke;
+}
+.button4{
+    background-color: aqua;
+}
